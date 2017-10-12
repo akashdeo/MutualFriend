@@ -34,3 +34,11 @@ unique IDs corresponding to mutual friend list of User A and B.
   
 Please find the above output for the following pairs.
 (0,4), (20, 22939), (1, 29826), (6222, 19272), (28041, 28056)
+
+Part-2:
+
+Please answer this question by using dataset from Q1.
+Find friend pairs whose common friend number are within the top-10 in all the pairs. Please
+output them in decreasing order.
+Output Format:
+<User_A>, <User_B><TAB><Mutual/Common Friend Number>
